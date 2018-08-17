@@ -1,0 +1,7 @@
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\bin\Debug\NumCount.exe.config
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\bin\Debug\NumCount.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\bin\Debug\NumCount.pdb
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\obj\Debug\NumCount.csprojResolveAssemblyReference.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\obj\Debug\NumCount.csproj.CoreCompileInputs.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\obj\Debug\NumCount.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\NumCount\obj\Debug\NumCount.pdb

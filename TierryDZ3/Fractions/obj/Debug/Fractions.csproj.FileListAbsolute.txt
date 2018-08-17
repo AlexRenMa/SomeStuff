@@ -1,0 +1,7 @@
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\bin\Debug\Fractions.exe.config
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\bin\Debug\Fractions.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\bin\Debug\Fractions.pdb
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\obj\Debug\Fractions.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\Fractions\obj\Debug\Fractions.pdb

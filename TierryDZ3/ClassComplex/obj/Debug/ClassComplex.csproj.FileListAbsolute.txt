@@ -1,0 +1,7 @@
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\bin\Debug\ClassComplex.exe.config
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\bin\Debug\ClassComplex.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\bin\Debug\ClassComplex.pdb
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\obj\Debug\ClassComplex.csproj.CoreCompileInputs.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\obj\Debug\ClassComplex.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\obj\Debug\ClassComplex.pdb
+E:\Обучение\C# 1\Prog C#\TierryDZ3\ClassComplex\obj\Debug\ClassComplex.csprojResolveAssemblyReference.cache

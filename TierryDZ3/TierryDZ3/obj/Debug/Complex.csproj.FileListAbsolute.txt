@@ -1,0 +1,6 @@
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\bin\Debug\TierryDZ3.exe.config
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\bin\Debug\TierryDZ3.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\bin\Debug\TierryDZ3.pdb
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\obj\Debug\TierryDZ3.exe
+E:\Обучение\C# 1\Prog C#\TierryDZ3\TierryDZ3\obj\Debug\TierryDZ3.pdb
