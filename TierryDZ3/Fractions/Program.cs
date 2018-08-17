@@ -10,8 +10,39 @@ namespace Fractions
     {
         static void Main(string[] args)
         {
-            Fractions fract1 = new Fractions(10, 7, 0);//знаменатель, числитель, множитель
-            Fractions fract2 = new Fractions(15, 13, 0);
+            int nom1 = 0;
+            int denom1 = 0;
+            int full1 = 0;
+            int nom2 = 0;
+            int denom2 = 0;
+            int full2 = 0;
+
+            Console.WriteLine("Вас приветствует программа для операций с дробями!");
+           // do
+            //{
+                Console.WriteLine("Введите числитель(1), знаменатель(2), множитель(3) первой дроби в заданном порядке:");
+                try
+                {
+                    nom1 = Int32.Parse(Console.ReadLine());
+                    denom1 = Int32.Parse(Console.ReadLine());
+                    full1 = Int32.Parse(Console.ReadLine());
+                }
+                catch
+                { Console.WriteLine("Введены неверные данные, необходимо вводить целые числа"); }
+
+                Console.WriteLine("Введите числитель(1), знаменатель(2), множитель(3) второй дроби в заданном порядке:");
+                try
+                {
+                    nom2 = Int32.Parse(Console.ReadLine());
+                    denom2 = Int32.Parse(Console.ReadLine());
+                    full2 = Int32.Parse(Console.ReadLine());
+                }
+                catch
+                { Console.WriteLine("Введены неверные данные, необходимо вводить целые числа"); }
+          //  } while ();
+
+            Fractions fract1 = new Fractions(denom1, nom1, full1);//знаменатель, числитель, множитель
+            Fractions fract2 = new Fractions(denom2, nom2, full2);
             Fractions fractPlus = new Fractions(0, 0, 0);
             Fractions fractMulti = new Fractions(0, 0, 0);
             Fractions fractSubstraction = new Fractions(0, 0, 0);
